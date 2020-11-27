@@ -1,0 +1,2 @@
+# PicGoRepository
+PicGoSettings
